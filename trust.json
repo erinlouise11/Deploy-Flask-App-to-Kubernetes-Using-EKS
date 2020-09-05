@@ -4,4 +4,4 @@
        "Principal": {"AWS":"arn:aws:iam::726917344898:root"},
        "Action": "sts:AssumeRole"
     }]
-    }
+}
